@@ -1,0 +1,20 @@
+{
+  "name": "six-endeavors",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "cishy",
+    "email": ""
+  },
+  "repository": "/six-endeavors",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.29",
+    "vuepress": "^2.0.0-beta.29"
+  }
+}
