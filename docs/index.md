@@ -6,7 +6,7 @@ tagline: The six endeavors. ——稻盛和夫
 actionText: start
 actions:
   - text: 开始
-    link: /hello
+    link: /doc/hello
     type: primary
   - text: Github
     link: https://github.com/Tyh2001/my-blog

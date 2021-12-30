@@ -12,7 +12,7 @@ export const data = {
     "actions": [
       {
         "text": "开始",
-        "link": "/hello",
+        "link": "/doc/hello",
         "type": "primary"
       },
       {

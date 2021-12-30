@@ -70,16 +70,16 @@ export const themeData = {
     }
   ],
   "sidebar": [
-    "/hello",
-    "/milestone",
+    "/doc/hello",
+    "/doc/milestone",
     {
       "text": "前端笔记",
       "children": [
-        "/fronted/framework/react"
+        "/doc/fronted/framework/react"
       ]
     },
-    "/comment",
-    "/summary"
+    "/doc/comment",
+    "/doc/summary"
   ],
   "locales": {
     "/": {
