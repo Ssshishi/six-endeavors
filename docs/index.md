@@ -1,12 +1,12 @@
 ---
 home: true
-heroImage: /princess.jpg
+heroImage: /princess.png
 heroText: Cishy
 tagline: The six endeavors. ——稻盛和夫
 actionText: start
 actions:
   - text: 开始
-    link: /home
+    link: /hello
     type: primary
   - text: Github
     link: https://github.com/Tyh2001/my-blog

@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-fe51d454",
-  "path": "/hello/",
-  "title": "不一样的烟火",
+  "key": "v-c9cc3b3e",
+  "path": "/fronted/framework/react/",
+  "title": "react框架",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "hello/README.md"
+  "filePathRelative": "fronted/framework/react/README.md"
 }
 
 if (import.meta.webpackHot) {

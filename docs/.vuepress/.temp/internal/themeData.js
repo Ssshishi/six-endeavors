@@ -5,17 +5,32 @@ export const themeData = {
   "editLinks": false,
   "docsDir": "",
   "editLinkText": "",
-  "nav": [
+  "navbar": [
     {
       "text": "首页",
       "link": "/"
     },
     {
-      "text": "github",
-      "link": "https://github.com/Ssshishi"
+      "text": "Github",
+      "link": "https://github.com/Tyh2001/my-note-web"
     },
     {
-      "text": "我的",
+      "text": "tyh-Ui",
+      "ariaLabel": "Language Menu",
+      "children": [
+        {
+          "text": "tyh-ui",
+          "link": "https://tianyuhao.cn/tyhui"
+        },
+        {
+          "text": "tyh-ui2",
+          "link": "https://tianyuhao.cn/tyhui/v3"
+        }
+      ]
+    },
+    {
+      "text": "关于我",
+      "ariaLabel": "Language Menu",
       "children": [
         {
           "text": "个人网站",
@@ -54,13 +69,23 @@ export const themeData = {
       ]
     }
   ],
-  "sidebar": {},
+  "sidebar": [
+    "/hello",
+    "/milestone",
+    {
+      "text": "前端笔记",
+      "children": [
+        "/fronted/framework/react"
+      ]
+    },
+    "/comment",
+    "/summary"
+  ],
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
   "logo": null,
   "darkMode": true,
   "selectLanguageText": "Languages",

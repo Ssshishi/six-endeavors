@@ -5,14 +5,14 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "home": true,
-    "heroImage": "/princess.jpg",
+    "heroImage": "/princess.png",
     "heroText": "Cishy",
     "tagline": "The six endeavors. ——稻盛和夫",
     "actionText": "start",
     "actions": [
       {
         "text": "开始",
-        "link": "/home",
+        "link": "/hello",
         "type": "primary"
       },
       {

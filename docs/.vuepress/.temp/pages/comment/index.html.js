@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-fe51d454",
-  "path": "/hello/",
-  "title": "不一样的烟火",
+  "key": "v-9a7e70ae",
+  "path": "/comment/",
+  "title": "阅读心得",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "hello/README.md"
+  "filePathRelative": "comment/README.md"
 }
 
 if (import.meta.webpackHot) {
