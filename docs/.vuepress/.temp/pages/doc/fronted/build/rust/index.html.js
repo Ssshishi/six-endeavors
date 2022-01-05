@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-13d2d71a",
+  "path": "/doc/fronted/build/rust/",
+  "title": "构建---rust相关",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/build/rust/README.md"
 }
 
 if (import.meta.webpackHot) {

@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-63d12ddb",
+  "path": "/doc/fronted/framework/flutter/",
+  "title": "框架---flutter",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/framework/flutter/README.md"
 }
 
 if (import.meta.webpackHot) {

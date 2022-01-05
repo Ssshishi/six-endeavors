@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-c94f5adc",
+  "path": "/doc/fronted/scripts/ts/",
+  "title": "scripts---typescripts相关",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/scripts/ts/README.md"
 }
 
 if (import.meta.webpackHot) {

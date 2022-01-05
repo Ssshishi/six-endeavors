@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-239845bf",
+  "path": "/doc/fronted/runtime/deno/",
+  "title": "运行时---deno",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/runtime/deno/README.md"
 }
 
 if (import.meta.webpackHot) {

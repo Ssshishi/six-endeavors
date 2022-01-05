@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-136d001a",
+  "path": "/doc/fronted/build/vite/",
+  "title": "构建---vite相关",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/build/vite/README.md"
 }
 
 if (import.meta.webpackHot) {

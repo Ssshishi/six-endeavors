@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-60cc2db1",
+  "path": "/doc/fronted/framework/vue/",
+  "title": "框架---vue",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/framework/vue/README.md"
 }
 
 if (import.meta.webpackHot) {

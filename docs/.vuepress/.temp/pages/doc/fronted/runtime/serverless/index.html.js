@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-56c1aad8",
-  "path": "/doc/fronted/framework/react/",
-  "title": "框架---react",
+  "key": "v-6a31b225",
+  "path": "/doc/fronted/runtime/serverless/",
+  "title": "运行时---serverless",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "doc/fronted/framework/react/README.md"
+  "filePathRelative": "doc/fronted/runtime/serverless/README.md"
 }
 
 if (import.meta.webpackHot) {

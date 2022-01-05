@@ -1,2 +1,2 @@
-<template><h1 id="react框架" tabindex="-1"><a class="header-anchor" href="#react框架" aria-hidden="true">#</a> react框架</h1>
+<template><h1 id="框架-react" tabindex="-1"><a class="header-anchor" href="#框架-react" aria-hidden="true">#</a> 框架---react</h1>
 </template>
