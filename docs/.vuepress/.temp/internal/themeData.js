@@ -12,7 +12,7 @@ export const themeData = {
     },
     {
       "text": "Github",
-      "link": "https://github.com/Tyh2001/my-note-web"
+      "link": "https://github.com/Ssshishi/six-endeavors"
     },
     {
       "text": "tyh-Ui",

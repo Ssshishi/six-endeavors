@@ -9,7 +9,7 @@ actions:
     link: /doc/hello
     type: primary
   - text: Github
-    link: https://github.com/Tyh2001/my-blog
+    link: https://github.com/Ssshishi/six-endeavors
     type: secondary
 features:
 - title: 技术记录

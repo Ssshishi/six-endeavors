@@ -17,7 +17,7 @@ export const data = {
       },
       {
         "text": "Github",
-        "link": "https://github.com/Tyh2001/my-blog",
+        "link": "https://github.com/Ssshishi/six-endeavors",
         "type": "secondary"
       }
     ],

@@ -1,6 +1,6 @@
 export const navBarArr = [
   { text: '首页', link: '/' },
-  { text: 'Github', link: 'https://github.com/Tyh2001/my-note-web' },
+  { text: 'Github', link: 'https://github.com/Ssshishi/six-endeavors' },
   {
     text: 'tyh-Ui',
     ariaLabel: 'Language Menu',
