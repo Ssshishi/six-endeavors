@@ -90,6 +90,45 @@
 * 第二个 ('2', 1) 基数为1 最大值为1，大于2，无法解析，返回NaN
 * 第三个 ('3', 2) 基数为2，最大值为2，小于3，无法解析，返回NaN
 ## 2022.1.5
+>. 什么是防抖和节流？有什么区别？如何实现？
+1. 防抖
+> 触发高频事件后n秒内只会执行一次，如果n秒内高频事件再次被触发，则重新计算时间
+每次触发事件时都取消之前的延时调用方法
+```js
+const debounce = (fn) => {
+   let timeout = null; // 创建一个计时
+   return function () { 
+    clearTimeout(timeout)  //每次用户输入之前先清空定时
+    timeout = setTimeout(fn.apply(this,arguments),500) //创建一个新的定时器
+    // 这样保证输入的过程中 500毫秒间隔，如果继续输入，不会执行fn
+    }
+} 
+const hello = () => {
+    console.log('防抖成功')
+}
+var inp = document.getElementById('inp')
+inp.addEventListener('input', debounce(hello))
+```
+2.节流
+> 高频事件触发，但在n秒内执行一次，所以节流会稀释事件执行频率
+每次触发事件的时候都判断当前是否有等待执行的延时函数
+```js
+const throttle = (fn) => {
+   let canRun = true
+   return function () {
+    if(!canRun) return;
+    canRun = false;
+    setTimeout(() => {
+        fn.apply(this, argunments)
+        canRun = true
+    }, 500)
+   }
+}
+const hello = (e) => {
+    console.log(e.target.innnerWidth, e.target.innerHeight)
+}
+window.addEventListener('resize', throttle(hello))
+```
 
 ## 2022.1.6
 
